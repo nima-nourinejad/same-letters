@@ -5,6 +5,7 @@ def shomar (st,a):
       n+=1
   return n
 
+
 def bh (k1,k2):
   for i in k1:
     j=1
